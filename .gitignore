@@ -1,0 +1,7 @@
+# Ignore the data directory to avoid uploading large data files to the repository.
+# The data directory should contain the following files:
+# - train_series.parquet
+# - test_series.parquet
+# - train_events.csv
+# - sample_submission.csv
+data/
