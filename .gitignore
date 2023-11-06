@@ -5,3 +5,4 @@
 # - train_events.csv
 # - sample_submission.csv
 data/
+*.parquet
